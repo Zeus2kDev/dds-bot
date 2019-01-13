@@ -15,3 +15,5 @@
 [![Questions & Answers](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
 
 [![No Questions](https://cdn.discordapp.com/attachments/534010291802079242/534024683641634836/FAQ_No_Questions.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
+
+[![License](https://cdn.discordapp.com/attachments/534010291802079242/534062506717478912/License.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
