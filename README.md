@@ -4,7 +4,12 @@
 
 ## [![Table of Contents](https://cdn.discordapp.com/attachments/534010291802079242/534044402675482645/Table_of_Contents.png)](https://github.com/NightmareNightstep/dds-bot)
 
+> [![ATC](https://cdn.discordapp.com/attachments/534010291802079242/534050219873009674/ATC.png)](#about)
+
 > [![FAQ](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)](#faq)
+
+## About
+![](https://cdn.discordapp.com/attachments/534010291802079242/534050219873009674/ATC.png)
 
 ## FAQ
 ![](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)
