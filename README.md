@@ -2,8 +2,10 @@
 
 [![Discord](https://cdn.discordapp.com/attachments/534010291802079242/534043683767713821/Discord.png)](https://discord.gg/HVbjHJv)
 
-![](https://cdn.discordapp.com/attachments/534010291802079242/534050219873009674/ATC.png)
+[![About the Creator](https://cdn.discordapp.com/attachments/534010291802079242/534050219873009674/ATC.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
 
-![](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)
+[![Creator](https://cdn.discordapp.com/attachments/534010291802079242/534059545652101131/About.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
 
-![No Questions](https://cdn.discordapp.com/attachments/534010291802079242/534024683641634836/FAQ_No_Questions.png)
+[![Questions & Answers](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
+
+[![No Questions](https://cdn.discordapp.com/attachments/534010291802079242/534024683641634836/FAQ_No_Questions.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
