@@ -1,13 +1,7 @@
 # dds-bot
 The Dunkin' Donuts Security Discord Bot.
 
-::: tip
-Testing.
-:::
-
-::: warning
-Testing.
-:::
+More information coming soon.
 
 Image example for: NightmareNightstep/dds-bot/images/Information.png
 
