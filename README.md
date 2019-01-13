@@ -24,6 +24,10 @@
 
 [![No Questions](https://cdn.discordapp.com/attachments/534010291802079242/534024683641634836/FAQ_No_Questions.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
 
+# Examples
+
+[![NightmareNightstep/dds-bot/images/Information.png](https://cdn.discordapp.com/attachments/534085639419723796/534085683984203835/Example.png)](https://cdn.discordapp.com/attachments/534085639419723796/534085724249522176/Information.png)
+
 # License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
