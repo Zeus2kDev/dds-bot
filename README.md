@@ -8,7 +8,7 @@ More information coming soon.
 • MongoDB Compass
 • Discord
 
-: tip This is a tip :::
+::: tip This is a tip :::
 
 Image example for: NightmareNightstep/dds-bot/images/Information.png
 
