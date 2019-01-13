@@ -6,12 +6,12 @@
 
 > [![ATC](https://cdn.discordapp.com/attachments/534010291802079242/534050219873009674/ATC.png)](#about)
 
-> [![FAQ](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)](#faq)
+> [![QNA](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)](#q&a)
 
 ## About
 ![](https://cdn.discordapp.com/attachments/534010291802079242/534050219873009674/ATC.png)
 
-## FAQ
+## Q&A
 ![](https://cdn.discordapp.com/attachments/534010291802079242/534045127736295425/QA.png)
 
 ![No Questions](https://cdn.discordapp.com/attachments/534010291802079242/534024683641634836/FAQ_No_Questions.png)
