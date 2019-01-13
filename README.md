@@ -8,6 +8,12 @@
 
 [![Installation](https://cdn.discordapp.com/attachments/534063513128402965/534066212108238868/Installation.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
 
+[![Discord](https://cdn.discordapp.com/attachments/534067103024807947/534069955054927884/Discord.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
+
+[![Visual Studio Code](https://cdn.discordapp.com/attachments/534067103024807947/534069990962233364/Visual_Studio_Code.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
+
+[![MongoDB Compass](https://cdn.discordapp.com/attachments/534067103024807947/534069972054573077/MongoDB_Compass.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
+
 [![Features](https://cdn.discordapp.com/attachments/534063513128402965/534066239388254208/Features.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
 
 [![Development Team](https://cdn.discordapp.com/attachments/534063513128402965/534066265380093962/Development_Team.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
