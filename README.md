@@ -18,7 +18,7 @@
 
 # Development Team
 
-[![Creator Tag](https://cdn.discordapp.com/attachments/534067103024807947/534067153825955841/Creator_Tag.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
+[![Creator Tag](https://cdn.discordapp.com/attachments/534067103024807947/534067153825955841/Creator_Tag.png)](https://github.com/NightmareNightstep)
 
 # Questions & Answers
 
