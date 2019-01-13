@@ -1,14 +1,9 @@
-# dds-bot
-The Dunkin' Donuts Security Discord Bot.
-
-More information coming soon.
+[![Discord](https://img.shields.io/discord/532528378763542529.svg)](https://discord.gg/HVbjHJv)
 
 # Items Used
 • Visual Studio Code
 • MongoDB Compass
 • Discord
-
-::: tip This is a tip :::
 
 Image example for: NightmareNightstep/dds-bot/images/Information.png
 
