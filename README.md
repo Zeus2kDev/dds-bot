@@ -16,8 +16,6 @@
 
 [![MongoDB Compass](https://cdn.discordapp.com/attachments/534067103024807947/534069972054573077/MongoDB_Compass.png)](https://www.mongodb.com/download-center)
 
-# Features
-
 # Development Team
 
 [![Creator Tag](https://cdn.discordapp.com/attachments/534067103024807947/534067153825955841/Creator_Tag.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
