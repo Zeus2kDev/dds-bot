@@ -18,7 +18,7 @@ module.exports.run = async (bot, message, args) => {
     let member = message.guild.member(message.mentions.users.first()) || message.guild.members.get(args[0])
     if(!member) return errors.cantfindUser(message, ";warn <user> <reason>");
     if(member.id === bot.user.id) return errors.botuser(message, "You cannot warn a bot.", ";warn <user> <reason>"); 
-    if(member.hasPermissions("MANAGE_MESSAGES")) return errors.equalPerms(message, member, ";warn <user> <reason>");
+    if(member.hasPermission("MANAGE_MESSAGES")) return errors.equalPerms(message, member, ";warn <user> <reason>");
     let reason = args.slice(1).join(' ');
     if(!reason) return errors.noReason(message, ";warn <user> <reason>");
     
