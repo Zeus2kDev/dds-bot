@@ -3,6 +3,7 @@
 # Discord
 
 [![Discord](https://cdn.discordapp.com/attachments/534063513128402965/534066107389181962/Discord.png)](https://discord.gg/HVbjHJv)
+
 [![Discord2](https://cdn.discordapp.com/attachments/531261279294193675/534561402329759770/Discord2.png)](https://discord.gg/wrNcTaz)
 
 # Version
