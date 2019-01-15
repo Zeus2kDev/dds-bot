@@ -4,6 +4,9 @@
 
 [![Discord](https://cdn.discordapp.com/attachments/534063513128402965/534066107389181962/Discord.png)](https://discord.gg/HVbjHJv)
 
+# Version
+[![Version](https://cdn.discordapp.com/attachments/531261279294193675/534559681063157781/Version_0.6.2.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
+
 # About The Creator
 
 [![Creator](https://cdn.discordapp.com/attachments/534010291802079242/534059545652101131/About.png)](https://github.com/NightmareNightstep/dds-bot/blob/master/README.md)
